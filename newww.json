@@ -1,0 +1,89 @@
+{
+  "coffe_shops": { "name": "مقاهى وكافيهات", "cat": "coffe_shops" },
+  "pharmacy": { "name": "الصيدليات", "cat": "pharmacy" },
+  "clothes_shops": { "name": "محلات الملابس", "cat": "clothes_shops" },
+  "computers": { "name": "كمبيوتر وسايبرات", "cat": "computers" },
+  "gov": { "name": "مصالح حكومية", "cat": "gov" },
+  "home_ware": { "name": "الاجهزة المنزلية", "cat": "home_ware" },
+  "markets": { "name": "السوبر ماركت", "cat": "markets" },
+  "phones": { "name": "سنترالات هواتف", "cat": "phones" },
+  "resturants": { "name": "المطاعم", "cat": "resturants" },
+  "schools": { "name": "المدارس", "cat": "schools" },
+  "weddings": { "name": "قاعات الافراح", "cat": "weddings" },
+  "motocycle": { "name": "الموتوسيكلات", "cat": "motocycle" },
+  "cars_stuff": { "name": "السيارات وقطع الغيار", "cat": "cars_stuff" },
+  "warsha": { "name": "ورش التصليح", "cat": "warsha" },
+  "lawyers": { "name": "محامين ومستشارين", "cat": "lawyers" },
+  "engeneers": {
+    "name": "المهندسين",
+    "cat": "engeneers",
+    "subCats": [
+      { "name": "مكاتب هندسية", "cat": "office" },
+      { "name": "ديكورات وتشطيبات", "cat": "decor" },
+      { "name": "معمارى", "cat": "builds" },
+      { "name": "مساحة", "cat": "mesaha" },
+      { "name": "مدنى", "cat": "civil" }
+    ]
+  },
+  "gym_coaches": {
+    "name": "الجيم والمدربين",
+    "cat": "gym_coaches",
+    "subCats": [
+      { "name": "المدربين الشخصيين", "cat": "coaches" },
+      { "name": "الصالات", "cat": "gyms" }
+    ]
+  },
+  "individual_professions": {
+    "name": "المهن الفردية",
+    "cat": "individual_professions",
+    "subCats": [
+      { "name": "كهربائى", "cat": "electricity" },
+      { "name": "دش وريسيفر", "cat": "sat" },
+      { "name": "نقاش", "cat": "paint" },
+      { "name": "تبريد وتكييف", "cat": "condition" }
+    ]
+  },
+  "health": {
+    "name": "مستشفيات وعيادات",
+    "cat": "health",
+    "subCats": [
+      { "name": "المستشفيات", "cat": "hospitals" },
+      { "name": "الأسنان", "cat": "dental" },
+      { "name": "القلب", "cat": "heart" },
+      { "name": "العيون", "cat": "eyes" },
+      { "name": "المخ والاعصاب", "cat": "brain" },
+      { "name": "العظام", "cat": "bones" },
+      { "name": "الأطفال", "cat": "child" },
+      { "name": "التمريض", "cat": "nurse" },
+      { "name": "عام", "cat": "general" }
+    ]
+  },
+  "supplies": {
+    "name": "لوازم البناء والمنازل",
+    "cat": "supplies",
+    "subCats": [
+      { "name": "الدهانات", "cat": "paintings" },
+      { "name": "الكهرباء", "cat": "elec" },
+      { "name": "السباكة", "cat": "plumb" },
+      { "name": "الكاميرات", "cat": "camera" }
+    ]
+  },
+  "home_food": {
+    "name": "الأكل البيتى",
+    "cat": "home_food",
+    "subCats": [
+      { "name": "الحلويات", "cat": "sweets" },
+      { "name": "أطباق متنوعة", "cat": "dishes" }
+    ]
+  },
+  "teachers": {
+    "name": "المدرسين",
+    "cat": "teachers",
+    "subCats": [
+      { "name": "تأسيس", "cat": "start" },
+      { "name": "الابتدائية", "cat": "primary" },
+      { "name": "الاعدادية", "cat": "secondary" },
+      { "name": "الثانوية", "cat": "high_school" }
+    ]
+  }
+}
